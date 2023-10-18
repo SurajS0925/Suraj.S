@@ -1,3 +1,4 @@
+![logo](https://github.com/SurajS0925/Suraj.S/blob/main/github-header.png)
 <h1 align="center">Hi 👋, I'm Suraj S</h1>
 <h3 align="center">A passionate Student learning Machine learning in python , Data Structures and Algorithms to improve my problem-solving skills. I am very much interested to explore various projects in Machine learning and AIML applications</h3>
 
